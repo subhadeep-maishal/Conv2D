@@ -6,5 +6,7 @@
 developed in indian institute of technology kharagpur
 
 by Subhadeep Maishal
-flip plot:
+
+
+flip plot (correct dim):
 ![Figure](https://github.com/subhadeep-maishal/Conv2D/blob/main/convo2d.png) 
