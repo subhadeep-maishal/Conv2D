@@ -9,4 +9,4 @@ by Subhadeep Maishal
 
 
 flip plot (correct dim):
-![Figure](https://github.com/subhadeep-maishal/Conv2D/blob/main/convo2d.png) 
+![Figure](https://github.com/subhadeep-maishal/Conv2D/blob/main/convo2d_x.png) 
