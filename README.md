@@ -8,5 +8,9 @@ developed in indian institute of technology kharagpur
 by Subhadeep Maishal
 
 
-flip plot (correct dim):
+example:
 ![Figure](https://github.com/subhadeep-maishal/Conv2D/blob/main/convo2d_x.png) 
+
+
+
+For more details visit: https://www.tensorflow.org/tutorials/images/cnn
